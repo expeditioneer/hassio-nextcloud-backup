@@ -10,7 +10,7 @@ env:
   TARGET: nextcloud_backup
   IMAGE: "hassio-nextcloud-backup"
   REPOSITORY: ghcr.io/sebclem
-  IMAGE_SOURCE : https://github.com/Sebclem/hassio-nextcloud-backup
+  IMAGE_SOURCE : https://github.com/expeditioneer/hassio-nextcloud-backup
 
 
 
